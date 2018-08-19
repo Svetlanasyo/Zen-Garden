@@ -1,0 +1,110 @@
+section header
+    {
+        
+        background-image: url("images/rosesbackground.jpg");
+
+        
+    }
+
+h1
+    {
+        text-align: center;
+        font-size: 60pt;
+        font-family: Arial; 
+        font-weight: bold;
+        color:rgb(1, 49, 1);
+    }
+
+h2
+    {
+        text-align: center;
+        font-size: 40pt;
+        font-family: Arial; 
+        font-weight: bold;
+        color:green;
+    }
+
+h3 
+    {
+    text-align: center;
+    font-size: 20pt;
+    font-family: Arial; 
+    font-weight: bold;
+    color:rgb(5, 209, 5);
+    }
+
+p
+    {
+    text-align: center;
+    font-size: 14pt;
+    font-family: Arial; 
+    color:rgb(3, 3, 3);
+    }
+
+body
+    {
+    padding: 0%
+    }
+
+
+
+footer
+    {float: none}
+
+
+.summary
+    {
+        background-color: rgb(108, 247, 114);
+        margin: 0%;
+        padding: 1%
+    }
+
+.preamble
+    {
+        background-image: url("images/flower.jpg");
+        margin: 0%;
+        padding: 1%;
+        height: 100%;
+        width: 49%;
+        float: left;
+    }
+
+.explanation
+    {
+        background-image: url("images/grass.jpg");
+        margin: 0%;
+        padding: 1%;
+        height: 100%;
+        width: 49%;
+        float: left;
+    }
+
+.participation
+    {
+        background-image: url("images/flower.jpg");
+        margin: 0%;
+        padding: 1%;
+        height: 100%;
+        width: 49%;
+        float: left;
+    }
+
+.benefits
+    {
+        background-image: url("images/grass.jpg");
+        margin: 0%;
+        padding: 1%;
+        height: 100%;
+        width: 49%;
+        float: left;
+    }
+
+.requirements
+    {
+        background-image: url("images/flower.jpg");
+        margin: 0%;
+        padding: 1%;
+        height: 100%;
+        width: 49%;
+        float: left;
+    }
